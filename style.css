@@ -1,0 +1,49 @@
+.content-wrap{
+    width: 90%;
+    padding: 10px;
+    margin: 25px auto;
+    border-radius: 20px;
+}
+
+h5{
+    color: red;
+}
+
+.like, .degree, .boss, .business{
+    border: 0.5px solid #C1C1C1;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.form-select{
+    margin-bottom: 20px;
+}
+
+.border{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+button{
+    margin: 10px 0;
+}
+
+.contact{
+    margin: 10px;
+    padding: 10px;
+}
+
+.finish{
+    margin: 20px auto;
+    text-align: center;
+}
+
+#test{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
